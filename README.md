@@ -29,3 +29,4 @@ Here are some ideas to get you started:
   />
 </picture>
 
+<img src="https://raw.githubusercontent.com/DoD-Y/DoD-Y/main/github-metrics.svg" alt="Metrics" width="100%">
