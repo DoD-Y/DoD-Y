@@ -24,3 +24,5 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/DoD-Y/DoD-Y/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=UUUUUSTC;DoD-Y;冰箱没有鸡蛋)](https://git.io/typing-svg)
